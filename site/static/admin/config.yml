@@ -51,6 +51,7 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/services/_index.md"
         label: "Services Page"
         name: "services"
+        fields:
           - {label: Title, name: title, widget: string}
           - {label: Logo, name: logo, widget: image}
           - {label: Body, name: body, widget: markdown}
