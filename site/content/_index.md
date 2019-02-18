@@ -1,12 +1,16 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: ""
+subtitle: 
+image: /img/voltron84.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: MadWebber
+    text: "Websites that fit your business."
 intro:
     heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    text: "MadWebber, LLC prides itself on it's excellent service for businesses that need quality web service at affordable prices.
+
+Some of the services we offer include website design, logo design, hosting, maintenance (hourly or contractual), as well as custom shopping cart creation.
+
+If you have questions about what we can do for you, please visit our contact page."
 ---
 
